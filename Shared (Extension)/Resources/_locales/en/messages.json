@@ -1,0 +1,14 @@
+{
+    "extension_name": {
+        "message": "Redirect",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "Redirect exact URLs in Safari using user-defined rules.",
+        "description": "Description of what the extension does."
+    },
+    "extension_action_title": {
+        "message": "Open Redirect",
+        "description": "Toolbar button label for the extension popup."
+    }
+}

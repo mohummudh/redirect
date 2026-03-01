@@ -1,0 +1,5 @@
+REDIRECT_DEVELOPMENT_TEAM =
+REDIRECT_APP_BUNDLE_IDENTIFIER = com.example.redirect
+REDIRECT_EXTENSION_BUNDLE_IDENTIFIER = com.example.redirect.extension
+
+#include? "Local.xcconfig"
